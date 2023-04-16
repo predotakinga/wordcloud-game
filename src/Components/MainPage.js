@@ -81,7 +81,6 @@ const MainPage = () => {
 
   return (
     <div className="main-container">
-      {/* <h2>Game for {location.state.username}</h2> */}
       {randomQuestion && (
         <div>
           <h1>{randomQuestion.question}</h1>
