@@ -1,0 +1,26 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wordsContainer {
+  position: relative;
+  border: 1px solid rgb(30, 144, 255);
+  width: 500px;
+  height: 400px;
+  margin: auto;
+}
+
+.button-check {
+  padding: 12px 40px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px 1px rgb(30, 144, 255);
+  border: 1px solid gray;
+  font-size: 20px;
+  margin-top: 1%;
+  background-color: white;
+  text-align: center;
+}

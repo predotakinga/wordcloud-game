@@ -1,0 +1,53 @@
+[
+  {
+    "question": "select animals",
+    "all_words": [
+      { "word": "hole" },
+      { "word": "sofa" },
+      { "word": "pear" },
+      { "word": "tiger" },
+      { "word": "oatmeal" },
+      { "word": "square" },
+      { "word": "nut" },
+      { "word": "cub" },
+      { "word": "shirt" },
+      { "word": "tub" },
+      { "word": "passenger" },
+      { "word": "cow" }
+    ],
+    "good_words": ["tiger", "cow"]
+  },
+  {
+    "question": "select colors",
+    "all_words": [
+      { "word": "jeans" },
+      { "word": "existence" },
+      { "word": "ink" },
+      { "word": "red" },
+      { "word": "blue" },
+      { "word": "yellow" },
+      { "word": "laugh" },
+      { "word": "behavior" },
+      { "word": "expansion" },
+      { "word": "white" },
+      { "word": "black" },
+      { "word": "cakes" }
+    ],
+    "good_words": ["red", "blue", "yellow", "white", "black"]
+  },
+  {
+    "question": "select vehicles",
+    "all_words": [
+      { "word": "belief" },
+      { "word": "wire" },
+      { "word": "car" },
+      { "word": "bus" },
+      { "word": "star" },
+      { "word": "river" },
+      { "word": "hat" },
+      { "word": "skirt" },
+      { "word": "train" }
+    ],
+    "good_words": ["car", "bus", "train"]
+  }
+]
