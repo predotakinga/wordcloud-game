@@ -1,4 +1,3 @@
-// import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import WelcomePage from "./Components/WelcomePage";
 import MainPage from "./Components/MainPage";
